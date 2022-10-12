@@ -1,4 +1,4 @@
-# 🚀Starter React boilerplate 
+# 🚀Starter ReactJS boilerplate 
 #### Boilerplate contains:
 - TypeScript
 - Eslint (with airbnb config)
